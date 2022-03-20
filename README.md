@@ -1,4 +1,4 @@
-# guessinggame-project
+Guessing Game
 My first Python project - A Guessing Game
 
 Hello and good day!
